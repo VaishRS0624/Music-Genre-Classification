@@ -9,8 +9,7 @@ The project implements several machine learning models, including Logistic Regre
 /assets
   └── features_3_sec.csv          # CSV file containing features extracted from music tracks
 /README.md
-/main.py                         # Main script for training and testing models
-
+/code.ipynb                         # Notebook for training and testing models
 ```
 
 ## Requirements
